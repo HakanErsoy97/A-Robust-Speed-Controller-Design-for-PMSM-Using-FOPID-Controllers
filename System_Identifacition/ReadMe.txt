@@ -11,6 +11,9 @@ To execute the contents of this folder, the following are required:
 The dataset is taken from [1].
 
 
+
 [1]: J. C. Nustes, D. P. Pau, G. Gruosso, "Field oriented control dataset of a 3-phase permanent magnet synchronous motor," Data in Brief, vol.47, 109002, pp. 1-11, 2023
 
+
+Side Note: the tranfer function of the paper is named tf2 in X.sid
 
