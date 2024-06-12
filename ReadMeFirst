@@ -1,0 +1,21 @@
+This work created by Berke Akgul,  Emin Akpinar, Hakan Ersoy (Names are sorted in alphabetical order.)
+
+In this repository [1], PID and FOPID controllers designed for Permanent Magnet Synchronous Motors (PMSMs) have been compared.
+
+First, the transfer function of the relevant plant was obtained using the data from [1] with the Matlab System Identification Toolbox. Subsequently, a comparison of PID and FOPID controllers was conducted in the Matlab environment.
+
+Finally, experimental results for PID and FOPID were obtained for the the plant using Matlab Hardware-in-the-Loop (HIL) technique.
+
+This study has been prepared for the 47th International Conference on Telecommunications and Signal Processing.
+
+The contents of this repository are as follows:
+
+-Matlab System Identification file (.sid),
+-Matlab code for Approx (.m),
+-C source code for the IIR filter(.c).
+
+
+
+
+[1]: J. C. Nustes, D. P. Pau, G. Gruosso, "Field oriented control dataset of a 3-phase permanent magnet synchronous motor," Data in Brief, vol.47, 109002, pp. 1-11, 2023
+We kindly request those who use this work for academic purposes to provide appropriate citations.
